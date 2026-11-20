@@ -1,2 +1,3 @@
-# language-learning-app
-Want to learn the different languages? Then you may use our language learning web. 
+#CGPA CALCULATOR
+ A simple CGPA calculator to calculate your CGPA and percentage from your semester grades .
+ I have made this project into two versions: one in HTML and one in C++. 
